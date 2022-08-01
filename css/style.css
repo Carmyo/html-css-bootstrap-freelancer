@@ -1,6 +1,9 @@
-.start {
+.bgc-green {
     background-color: hsl(168deg 76% 42%);
 }
+
+
+
 
 header {
     display: flex;
