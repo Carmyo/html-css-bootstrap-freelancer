@@ -1,4 +1,4 @@
-.bgc-green {
+.cdc-bgc-green {
     background-color: hsl(168deg 76% 42%);
 }
 
@@ -17,6 +17,6 @@ header {
 }
 
 
-.tc-white {
+.cdc-tc-white {
     color: white;
 }
